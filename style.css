@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Kanit&display=swap');
+
+body{
+    height: 1500px;
+    background: linear-gradient(to bottom, #0A5159, #41D9D9, #50F2F2);
+}
+
+header{
+    color: #34c5d8;
+    margin: auto;
+    text-align: center;
+    font-size: 3em;
+}
+h1{
+    text-shadow: 5px 5px 5px rgba(56, 56, 56, 0.534);
+}
+
+main{
+    margin: auto;
+    max-width: 600px;
+    height: 280px;
+    background:linear-gradient(to top, #c0c0c0,#e4e4e4, #F2F2F2);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(83, 83, 83, 0.281);
+}
+
+section{
+    margin: auto;
+}
+
+p{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#lista{
+    margin-left: 42%;
+    width: 150px;
+    border-radius: 5px;
+    background-color: #0A5159;
+    color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px rgba(61, 61, 61, 0.205)
+}
+
+input{
+    border-radius: 5px;
+    background-color: #0A5159;
+    color: white;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px rgba(61, 61, 61, 0.205)
+}
+
+#finalizar{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+input:hover{
+    background-color: #0e6d77;
+}
